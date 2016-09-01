@@ -1,10 +1,12 @@
 /*
+Programa: Saludo de una persona
 
-Programa: Automóvil Inteligente
+Capturar el nombre de una persona utilizando el componente JOptionPane para ingresar datos al programa.
 
-En caso que no este en verde, el carro solo estará en reposo.
-El carro solo debe arrancar si esta encendido y en verde
-En caso que este en verde pero apagado el carro se debe encender y arrancar 
+Concatenar las variables para el saludo.
+
+Mostrar con el componente JOptionPane la salida del saludo.
+
 
  */
 package ejercicios;
