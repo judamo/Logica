@@ -8,6 +8,8 @@ import javax.swing.JOptionPane;
  * @author juan
  */
 public class EjercicioDoce {
+    
+    
 
     public static void main(String[] args) {
 
